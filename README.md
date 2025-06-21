@@ -18,11 +18,11 @@
    - Powered by a **small battery (e.g., coin cell or 3V CR2032)** for portability.
   
    - **Images of The Project**
-![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(13).png)
-![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(14).png)
-![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(16).png)
-![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(18).png)
-![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(15).png)
+![PCB Preview](https://github.com/Armaan240/PIKASOLDER/blob/main/Screenshot%20(26).png)
+![PCB Preview](https://github.com/Armaan240/PIKASOLDER/blob/main/Screenshot%20(28).png)
+![PCB Preview](https://github.com/Armaan240/PIKASOLDER/blob/main/Screenshot%20(24).png)
+![PCB Preview](https://github.com/Armaan240/PIKASOLDER/blob/main/Screenshot%20(25).png)
+![PCB Preview](https://github.com/Armaan240/PIKASOLDER/blob/main/Screenshot%20(22).png)
 
 ---
 
